@@ -1,4 +1,3 @@
-INSERT INTO burgers (name, devoured) VALUES ('NotaBigMac', false);
-INSERT INTO burgers (name, devoured) VALUES ('IamAGooMan', false);
-INSERT INTO burgers (name, devoured) VALUES ('JustAnotherBBQBurger', false);
-
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chee', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Big Kahuna', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('bug burger', FALSE);
